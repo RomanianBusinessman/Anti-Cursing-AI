@@ -1,0 +1,4 @@
+pydub
+faster_whisper
+hf_xet
+moviepy
